@@ -1,0 +1,1 @@
+First value contains Foo Bar, second Bar Foo
